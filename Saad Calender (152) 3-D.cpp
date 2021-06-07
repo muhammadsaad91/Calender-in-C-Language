@@ -28,7 +28,7 @@ int inputyear(void)
     printf("Welcome To Muhammad Saad CAlender::  \n");
 	int year;
 	
-	printf("Enter a year You want calender Of: ");
+	printf("Enter a year You want to search: ");
 	scanf("%d", &year);
 	return year;
 }
